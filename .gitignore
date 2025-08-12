@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+faiss_index/
+*.pkl
+.DS_Store
+.env
+.env
+.ipynb_checkpoints/
